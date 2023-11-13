@@ -1,6 +1,8 @@
 <?php 
 
-$data = ['salad', 'Burger', "Pizza"];
-$data[1] = 'chicken';
-$data[] = 'soup';
+$data = ['john' => 'salad', 'bob' => 'Burger', 'smith' => "Pizza"];
+
+$data['jane'] = 'soup';
+$data['wing'] = 'chicken';
+
 var_dump($data);
