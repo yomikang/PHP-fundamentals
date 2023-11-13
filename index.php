@@ -1,6 +1,10 @@
 <?php 
 
-$data = ['john' => 'salad', 'bob' => 'Burger', 'smith' => "Pizza"];
+$data = [
+  'john' => ['salad', 'soup', 'spaghetti'], 
+  'bob' => ['Burger'], 
+  'smith' => "Pizza"
+  ];
 
 $data['jane'] = 'soup';
 $data['wing'] = 'chicken';
