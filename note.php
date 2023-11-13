@@ -15,5 +15,9 @@
 var_dump(variable that you want to check its data type)
 
 -use underscore as a , for large numbers
+
+-string 
+If you want to have a variable within a string, string quotation mark should be always double not single
+
 */
 
