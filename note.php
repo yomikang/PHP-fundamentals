@@ -27,9 +27,11 @@ If you want to have a variable within a string, string quotation mark should be 
 
 -Typecasting is the process of changing the data type of an existing value into a different data type. Typecasting is done automatically by PHP, but it can also be done manually.
 
+-Type juggling is when PHP automatically type casts your values wtihout your explicit permission
 
+-Arithmetic operator reference: https://www.php.net/manual/en/language.operators.arithmetic.php
 
-
+-Assignment operator reference: https://www.php.net/manual/en/language.operators.assignment.php
 
 */
 
